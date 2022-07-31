@@ -24,4 +24,4 @@ while (true) {
 }
 ```
 
-If you want to try it in game, copy `cleo-cheats-example.js` in your `Cleo` folder, start the game and press `Q` in your keyboard for display runing cheats panel.
+If you want to try it in game, copy `cleo-cheats-example.js` in your `Cleo` folder, start the game and press `Q` in your keyboard to display runing cheats panel.
